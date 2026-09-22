@@ -1,0 +1,5 @@
+﻿split,source,duplicate_records_removed,numeric_missing_cells,min_records_per_person,max_records_per_person
+train,activity,0,0,35,120
+train,sleep,0,0,35,120
+val,activity,0,0,38,122
+val,sleep,0,0,38,122

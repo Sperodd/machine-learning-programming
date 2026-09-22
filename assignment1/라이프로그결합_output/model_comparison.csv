@@ -1,0 +1,10 @@
+﻿configuration,model,accuracy,precision,recall,F1,balanced accuracy,ROC-AUC
+MMSE,Dummy (다수 클래스),0.9090909090909091,0.0,0.0,0.0,0.5,0.5
+MMSE,Logistic Regression,1.0,1.0,1.0,1.0,1.0,1.0
+MMSE,Random Forest,1.0,1.0,1.0,1.0,1.0,1.0
+Lifestyle,Dummy (다수 클래스),0.9090909090909091,0.0,0.0,0.0,0.5,0.5
+Lifestyle,Logistic Regression,0.9090909090909091,0.5,0.6666666666666666,0.5714285714285714,0.8,0.8
+Lifestyle,Random Forest,0.9696969696969697,1.0,0.6666666666666666,0.8,0.8333333333333333,0.9888888888888889
+Combined,Dummy (다수 클래스),0.9090909090909091,0.0,0.0,0.0,0.5,0.5
+Combined,Logistic Regression,1.0,1.0,1.0,1.0,1.0,1.0
+Combined,Random Forest,0.9696969696969697,1.0,0.6666666666666666,0.8,0.8333333333333333,1.0

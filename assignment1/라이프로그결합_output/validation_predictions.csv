@@ -1,0 +1,34 @@
+﻿person,actual,predicted,Dem_probability,correct
+1,not Dem,not Dem,0.0044,True
+2,not Dem,not Dem,0.0051,True
+3,not Dem,not Dem,0.0002,True
+4,not Dem,not Dem,0.0003,True
+5,not Dem,not Dem,0.0171,True
+6,not Dem,not Dem,0.0013,True
+7,not Dem,not Dem,0.0021,True
+8,not Dem,not Dem,0.002,True
+9,not Dem,not Dem,0.0001,True
+10,not Dem,not Dem,0.0027,True
+11,not Dem,not Dem,0.001,True
+12,not Dem,not Dem,0.0021,True
+13,not Dem,not Dem,0.0052,True
+14,not Dem,not Dem,0.0001,True
+15,not Dem,not Dem,0.0028,True
+16,not Dem,not Dem,0.0007,True
+17,not Dem,not Dem,0.0074,True
+18,not Dem,not Dem,0.0253,True
+19,Dem,Dem,1.0,True
+20,not Dem,not Dem,0.0005,True
+21,not Dem,not Dem,0.0319,True
+22,not Dem,not Dem,0.0002,True
+23,Dem,Dem,1.0,True
+24,not Dem,not Dem,0.0008,True
+25,not Dem,not Dem,0.0004,True
+26,not Dem,not Dem,0.006,True
+27,not Dem,not Dem,0.0005,True
+28,not Dem,not Dem,0.0,True
+29,not Dem,not Dem,0.0,True
+30,not Dem,not Dem,0.0009,True
+31,not Dem,not Dem,0.0002,True
+32,not Dem,not Dem,0.0023,True
+33,Dem,Dem,0.9987,True
