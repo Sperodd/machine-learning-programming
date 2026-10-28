@@ -1,0 +1,22 @@
+{
+  "data_root": "D:\\hanyeowon\\가천대학교\\기계학습프로그래밍\\data\\한국 음식 이미지\\kfood",
+  "source_url": "https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=79",
+  "classes": [
+    "김밥",
+    "만두",
+    "피자",
+    "식혜",
+    "콩자반"
+  ],
+  "seed": 42,
+  "train_per_class": 100,
+  "val_per_class": 30,
+  "test_per_class": 50,
+  "image_size": 128,
+  "batch_size": 16,
+  "epochs": 5,
+  "device": "cpu",
+  "threads": 8,
+  "torch": "2.14.1+cpu",
+  "best_mode_by_validation": "partial"
+}
